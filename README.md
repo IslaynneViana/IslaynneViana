@@ -19,6 +19,8 @@ Estudante de Ciência da Computação e Jovem Tech, sou apaixonada por tecnologi
 ## Minhas estatísticas
 
 ![Islaynne's GitHub stats](https://github-readme-stats.vercel.app/api?username=IslaynneViana&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslaynneViana&layout=compact&langs_count=6&theme=tokyonight
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=4&hide=html&theme=tokyonight
 )
 
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=IslaynneViana&layout=compact&langs_count=6&hide=htmltheme=tokyonight
