@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Islaynne🐱
 
-Estudante de Ciência da Computação e sou apaixonada por tecnologia, especialmente pelo desenvolvimento de sistemas back-end. Estou sempre buscando aprender mais e aplicar meu conhecimento. Estou focada em expandir minhas habilidades em desenvolvimento.
+Estudante de Ciência da Computação e Jovem Tech, sou apaixonada por tecnologia, especialmente pelo desenvolvimento de sistemas back-end. Estou sempre buscando aprender mais e aplicar meu conhecimento. Estou focada em expandir minhas habilidades em desenvolvimento.
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](islaynneviana@gmail.com)
